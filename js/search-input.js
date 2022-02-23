@@ -1,11 +1,20 @@
 let searchable = [
-  'Elastic',
-  'PHP',
-  'Something about CSS',
-  'How to code',
-  'JavaScript',
-  'Coding',
-  'Some other item',
+  'Спортивно бальні танці',
+  'Спорт',
+  'Танці',
+  'Стрічки',
+  'Бахрома',
+  'Реголін',
+  'Костюми',
+  'Балетки',
+  'Спідниці',
+  'Фрак',
+  'Тріко',
+  'Жіночі Туфлі',
+  'Чоловічі Туфлі',
+  'Плаття',
+  'ФотоГалерея',
+  'Костюми'
 ];
 
 const searchInput = document.getElementById('search');
