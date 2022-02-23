@@ -42,17 +42,14 @@ input:focus {
   color: #6d7b98;
   line-height: 50px;
   font-size: 22px;
-}
+}Й
 
 .results {
   padding: 0px;
-  display: block;
-  z-index: 9999;
 }
 
 .results ul {
   margin: 0; 
-  padding: 0;
 }
 
 .results ul li {
