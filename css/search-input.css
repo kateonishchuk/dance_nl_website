@@ -42,7 +42,7 @@ input:focus {
   color: #6d7b98;
   line-height: 50px;
   font-size: 22px;
-}Й
+}
 
 .results {
   padding: 0px;
@@ -61,6 +61,10 @@ input:focus {
   transition: all .5s linear;
 }
 
+.show {
+  background-color: #fff;
+} 
+
 .show .results ul li {
   opacity: 1;
   display: block;
@@ -72,4 +76,13 @@ input:focus {
 
 .results ul li:hover {
   background: #ececec
+}
+
+.drop-down-list {
+  width: 600px; 
+  position: absolute; 
+  display: block; 
+  z-index: 11999; 
+  background-color: #fff; 
+  left: -2px;
 }
