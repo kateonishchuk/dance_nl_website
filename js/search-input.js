@@ -46,5 +46,5 @@ function renderResults(results) {
 
   searchWrapper.classList.add('show');
   
-  resultsWrapper.innerHTML = `<ul>${content}</ul>`;
+  resultsWrapper.innerHTML = `<ul class="drop-down-list">${content}</ul>`;
 }
