@@ -46,6 +46,8 @@ input:focus {
 
 .results {
   padding: 0px;
+  display: block;
+  z-index: 9999;
 }
 
 .results ul {
