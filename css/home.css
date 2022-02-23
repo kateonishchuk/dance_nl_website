@@ -40,6 +40,33 @@ html {
     opacity: .8;
 }
 
+a:hover {
+    text-decoration-line: none;
+}
+
+#modal-btn {
+    width: 250px;
+}
+
+#modal-btn:hover {
+    opacity: 1;
+}
+
+.modal-title {
+    font-size: 16px;
+    text-transform: none;
+    font-weight: 600;
+}
+
+.modal-body {
+    text-transform: none;
+    font-size: 16px;
+}
+
+#modal-accept-btn {
+    width: 220px;
+}
+
 .heading {
     padding-top: 7rem;
     width: 95%;
